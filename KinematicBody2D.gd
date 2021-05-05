@@ -20,6 +20,3 @@ func _physics_process(delta):
 			motion.y = JUMP_HEIGHT 	
 	motion = move_and_slide(motion, UP)
 	
-			
-	
-				

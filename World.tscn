@@ -10,7 +10,6 @@ extents = Vector2( 59.0967, 61.3233 )
 extents = Vector2( 62.5215, 49.2925 )
 
 [node name="World" type="Node2D"]
-position = Vector2( 35.6701, -34.4095 )
 
 [node name="Ken" type="KinematicBody2D" parent="."]
 position = Vector2( 587.862, 97.4177 )
